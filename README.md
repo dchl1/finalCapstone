@@ -22,3 +22,22 @@ To get a local copy of this program running on your machine, follow the steps be
 ## Usage <br />
 This inventory manager has 7 different commands to choose from, as shown in the menu:
 ![Menu](/img/menu.png)
+
+The **restock** command allows you to restock the product which has the lowest stock in the inventory. Enter the quantity of product you would like to restock and the
+program will update the inventory accordingly.
+![Restock](/img/restock.png)
+
+The **search** command allows you to discover information about a certain product using its SKU code.
+![Search](/img/search.png)
+
+The **sale** command will display the latest product on sale.
+![Sale](/img/sale.png)
+
+The **view** command will display the entire inventory.
+![View](/img/view.png)
+
+The **value** command will display the value of each product in the inventory.
+![Value](/img/value.png)
+
+The **add** command will allow you to add a new product to the inventory. You must enter the country, SKU Code, product name, cost & quantity as shown below.
+[!Add](/img/add.png)
