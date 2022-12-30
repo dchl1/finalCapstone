@@ -1,16 +1,20 @@
 # Inventory Manager <br />
 
 ## Table of Contents <br />
+- [Inventory Manager <br />](#inventory-manager--br---)
+  * [Table of Contents <br />](#table-of-contents--br---)
+  * [Description <br/>](#description--br--)
+  * [Getting Started <br />](#getting-started--br---)
+    + [Prerequisites <br />](#prerequisites--br---)
+    + [Installation <br />](#installation--br---)
+  * [Usage <br />](#usage--br---)
 
-<a name="Description"/>
 ## Description <br/>
 This project is an shoe inventory management program built with Python. It stores data such as SKU codes, product names etc. on a text file and allows users to read and edit inventory data.
 
-<a name="Getting Started"/>
 ## Getting Started <br />
 To get a local copy of this program running on your machine, follow the steps below.
 
-<a name="Prerequisites"/>
 ### Prerequisites <br />
 * Python 3.9
 > You can install Python 3.9 here: https://www.python.org/downloads/release/python-390/
@@ -18,14 +22,12 @@ To get a local copy of this program running on your machine, follow the steps be
 * PyCharm (Optional)
 > You can install PyCharm here: https://www.jetbrains.com/pycharm/download/
 
-<a name="Installation"/>
 ### Installation <br />
 1. Download the inventory.py and inventory.txt files located in this project onto your local machine
 > NOTE: Do not rename either of these files.
 2. Place both files in a new folder
 3. Run the inventory.py file either using IDLE Shell or PyCharm (as stated above)
 
-<a name="Usage"/>
 ## Usage <br />
 This inventory manager has 7 different commands to choose from, as shown in the menu:
 
