@@ -1,13 +1,13 @@
 # Inventory Manager <br />
 
 ## Table of Contents <br />
-- [Inventory Manager <br />](#inventory-manager--br---)
-  * [Table of Contents <br />](#table-of-contents--br---)
-  * [Description <br/>](#description--br--)
-  * [Getting Started <br />](#getting-started--br---)
-    + [Prerequisites <br />](#prerequisites--br---)
-    + [Installation <br />](#installation--br---)
-  * [Usage <br />](#usage--br---)
+- [Inventory Manager <br />](#inventory-manager)
+  * [Table of Contents <br />](##table-of-contents)
+  * [Description <br/>](##description)
+  * [Getting Started <br />](#'getting-started)
+    + [Prerequisites <br />](###prerequisites)
+    + [Installation <br />](###installation)
+  * [Usage <br />](##usage)
 
 ## Description <br/>
 This project is an shoe inventory management program built with Python. It stores data such as SKU codes, product names etc. on a text file and allows users to read and edit inventory data.
