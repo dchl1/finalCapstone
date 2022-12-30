@@ -2,13 +2,13 @@
 <a name="inventory manager"></a>
 
 ## Table of Contents <br />
-- [Inventory Manager <br />](#inventory-manager)
-  * [Table of Contents <br />](#table-of-contents)
-  * [Description <br/>](#description)
-  * [Getting Started <br />](#getting-started)
-    + [Prerequisites <br />](#prerequisites)
-    + [Installation <br />](#installation)
-  * [Usage <br />](#usage)
+- [Inventory Manager](#inventory-manager)
+  * [Table of Contents](#table-of-contents)
+  * [Description](#description)
+  * [Getting Started](#getting-started)
+    + [Prerequisites](#prerequisites)
+    + [Installation](#installation)
+  * [Usage](#usage)
 
 <a name="description"></a>
 ## Description <br/>
