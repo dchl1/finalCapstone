@@ -17,6 +17,8 @@ To get a local copy of this program running on your machine, follow the steps be
 1. Download the inventory.py and inventory.txt files located in this project onto your local machine
 > NOTE: Do not rename either of these files.
 2. Place both files in a new folder
-3. Run the inventory.py file either using IDLE shell or PyCharm (as stated above)
+3. Run the inventory.py file either using IDLE Shell or PyCharm (as stated above)
 
 ## Usage <br />
+This inventory manager has 7 different commands to choose from, as shown in the menu:
+![Menu](/img/menu.png)
